@@ -13,6 +13,7 @@
     "@types/react": "^18.0.7",
     "next": "12.1.5",
     "next-auth": "^4.3.4",
+    "nextjs": "^0.0.3",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-icons": "^4.3.1",
